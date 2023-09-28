@@ -25,7 +25,6 @@ const Skill = () =>
         'React Native',
         'AWS',
         'MongoDB',
-        'Microsoft Commerce Dynamxics',
         'Redux',
       ];
 

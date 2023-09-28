@@ -125,7 +125,7 @@ const About = () =>
                     <span>Gamitar Learning, India (Remote) 02/2020 –06/2021</span> - Frontend Developer{" "}
                   </li>
                   <li>
-                    <span>Akkel AI , Laohre 06/2019 –01/2020</span> - QA and junior Front End developer{" "}
+                    <span>Akkel AI , Lahore 06/2019 –01/2020</span> - QA and junior Front End developer{" "}
                   </li>
                 </ul>
               </Link>
